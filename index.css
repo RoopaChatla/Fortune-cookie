@@ -1,0 +1,117 @@
+ /* Author: Roopa Karanam (000847391)
+Date: September 30th 2021  */
+
+ body {
+     background-color: violet;
+ }
+
+ header {
+     background-color: teal;
+     color: yellow;
+     padding: 30px;
+     font-size: xx-large;
+     border: yellow solid 4px;
+     border-radius: 10px;
+
+
+ }
+
+
+ /* css for the color of the cookies and the change of text color when hover */
+
+ .red {
+     color: red;
+     width: 200px;
+     height: 200px;
+     line-height: 50px;
+     background-color: red;
+     border: 3px solid black;
+     border-radius: 50px;
+     float: left;
+     margin: 10px;
+     font-size: 3px;
+     vertical-align: middle;
+     text-align: center;
+
+ }
+
+ .aqua {
+     color: aqua;
+     width: 200px;
+     height: 200px;
+     line-height: 50px;
+     background-color: aqua;
+     border: 3px solid black;
+     border-radius: 50px;
+     float: left;
+     margin: 10px;
+     font-size: 3px;
+     vertical-align: middle;
+     text-align: center;
+
+ }
+
+ .aqua:hover {
+     color: red;
+     font-size: 20px;
+ }
+
+ .pink {
+     color: pink;
+     width: 200px;
+     height: 200px;
+     line-height: 50px;
+     background-color: pink;
+     border: 3px solid black;
+     border-radius: 50px;
+     float: left;
+     margin: 10px;
+     font-size: 3px;
+     vertical-align: middle;
+     text-align: center;
+
+ }
+
+ .pink:hover {
+     color: blue;
+     font-size: 20px;
+ }
+
+
+ .blue {
+    color: blue;
+    width: 200px;
+    height: 200px;
+    line-height: 50px;
+    background-color: blue;
+    border: 3px solid black;
+    border-radius: 50px;
+    float: left;
+    margin: 10px;
+    font-size: 3px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+
+ div:hover {
+     color: yellow;
+     font-size: 20px;
+
+ }
+
+ label {
+     padding: 30px;
+     padding-top: 50px;
+
+     /* margin: 20px; */
+ }
+
+ input {
+
+     margin: 30px 20px 30px;
+
+
+ }
+
+
